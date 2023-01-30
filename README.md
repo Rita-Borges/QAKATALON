@@ -1,2 +1,2 @@
 # QAKATALON
-SOme infomation
+Some infomation
