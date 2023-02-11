@@ -1,2 +1,2 @@
 # QAKATALON
-Some information
+Demo Page
